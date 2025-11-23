@@ -166,7 +166,7 @@ body{
 }
 
 .project-box:hover{
-  transform:translateY(-5px);
+  transform:translateY(-6px);
 }
 
 /* PROJECT IMAGE SLIDER */
